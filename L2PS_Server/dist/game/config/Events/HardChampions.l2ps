@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Hard Champion mobs - Turn random mobs into Hard Champions
+# ---------------------------------------------------------------------------
+# Enable/Disable Hard Champion Mob System.
+HardChampionEnable = False
+
+# Force Hard Champion mobs to be passive?
+# To leave champion mobs to default/Aggressive, set to False.
+# To set all Hard champion mobs to Passive, set True.
+HardChampionPassive = False
+
+# % chance for a mob to became Hard champion (0 to disable).
+HardChampionFrequency = 5
+
+# Title of all Hard Champion Mobs.
+HardChampionTitle = HardChampion
+
+# Min and max levels allowed for a mob to be a Hard Champion mob.
+HardChampionMinLevel = 20
+HardChampionMaxLevel = 70
+
+# Hp multiplier for Hard Champion mobs.
+HardChampionHp = 8
+
+# Hp Regen Multiplier for Hard Champion mobs.
+HardChampionHpRegen = 1.0
+
+# Standard rewards multiplier for Hard Champion mobs.
+HardChampionRewards = 8
+
+# Adena & Seal Stone rewards multiplier for Hard Champion mobs.
+HardChampionAdenasRewards = 1.0
+
+# P. Attack and M. Attack bonus for Hard Champion mobs.
+HardChampionAtk = 1.0
+
+# Physical/Magical Attack Speed bonus for Hard Champion mobs.
+HardChampionSpdAtk = 1.0
+
+# Specified reward item ID
+HardChampionRewardItemID = 6393
+
+# The amount of the specified reward a player will receive if they are awarded the item.
+HardChampionRewardItemQty = 1
+
+# % Chance to obtain a specified reward item from a LOWER lvl Hard Champion mob.
+HardChampionRewardLowerLvlItemChance = 0
+
+# % Chance to obtain a specified reward item from a HIGHER lvl Hard Champion mob.
+HardChampionRewardHigherLvlItemChance = 0
+
+# Do you want to enable the vitality calculation when killing Hard champion mobs?
+# Be aware that it can lead to huge unbalance on your server, your rate for that mob would
+# then be "mobXP x serverRate x vitalityRate x championXpRate
+# Notes:
+#	Works only if EnableVitality = True
+# Default: False
+HardChampionEnableVitality = False
+
+# Enable spawning of the Hard champions in instances
+# Default = False
+HardChampionEnableInInstances = False

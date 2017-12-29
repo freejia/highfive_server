@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="settings.xsd">
+   <event id="0">
+      <property name="ipCheckOnRegister" value="false" />
+      <property name="registerTime" value="600" />
+      <property name="voteTime" value="3600" />
+      <property name="voteEnabled" value="true" />
+      <property name="schedulerEnabled" value="false" />
+      <property name="firstAfterStartTime" value="60" />
+      <property name="managerNpcId" value="9999" />
+      <property name="showVotePopupAt" value="30" />
+      <property name="votePopupEnabled" value="false" />
+      <property name="debug" value="true" />
+      <property name="statTrackingEnabled" value="true" />
+      <property name="eventBufferEnabled" value="true" />
+      <property name="allowedBuffsList" value="1068,1085,1086,1087" />
+      <property name="maxBuffNum" value="2" />
+      <property name="friendlyFireEnabled" value="false" />
+      <property name="restartAllowed" value="false" />
+      <property name="showEscapeEffect" value="true" />
+      <property name="enableMiniEvents" value="true" />
+      <property name="npcBufferId" value="90001" />
+      <restriction type="item" ids="0" />
+      <restriction type="skill" ids="0" />
+      <!--  	ENABLE/DISABLE EVENTS (temporary solution till the ingame admin panel arrives	-->
+      <property name="eventEnabled_1" value="true" />
+      <property name="eventEnabled_2" value="true" />
+      <property name="eventEnabled_3" value="true" />
+      <property name="eventEnabled_4" value="true" />
+      <property name="eventEnabled_5" value="true" />
+      <property name="eventEnabled_6" value="true" />
+      <property name="eventEnabled_7" value="true" />
+      <property name="eventEnabled_8" value="true" />
+      <property name="eventEnabled_9" value="true" />
+      <property name="eventEnabled_10" value="true" />
+      <property name="eventEnabled_11" value="true" />
+      <property name="eventEnabled_12" value="true" />
+      <property name="eventEnabled_13" value="true" />
+      <property name="eventEnabled_14" value="true" />
+   </event>
+</events>

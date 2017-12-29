@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Premium System Options
+# ---------------------------------------------------------------------------
+# Allow premium service system. Check other options and rates carefully, before enable it!
+# Default: False
+UsePremiumServices = False
+
+# Disabled Prime shop for normal players (no vip)
+# Default: False
+DisabledForNonVip = False
+
+# Xp rate for premium users
+PremiumRateXp = 2
+
+# Sp rate for premium users
+PremiumRateSp = 2
+
+# Spoil rate for premium users
+PremiumRateDropSpoil = 2
+
+# Drop rate for premium users
+PremiumRateDropItems = 2
+
+# Raid drop rate for premium users
+PremiumRateRaidDropItems = 2
+
+# Individual drop and adena rate for premium users
+# Usage: id,count; id,count;...
+PremiumRateDropItemsById = 57,2

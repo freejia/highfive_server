@@ -1,0 +1,30 @@
+# ---------------------------------------------------------------------------
+# Wedding System
+# ---------------------------------------------------------------------------
+# Wedding Manager ID: 50007
+# Enable/Disable Wedding System
+AllowWedding = False
+
+# Amount of Adena required to get married
+WeddingPrice = 250000000
+
+# Enable/Disable punishing of players who attempt to be engaged to other players while married.
+WeddingPunishInfidelity = True
+
+# Enable/Disable teleport function for married couples.
+WeddingTeleport = True
+
+# Amount of Adena required to teleport to spouse.
+WeddingTeleportPrice = 50000
+
+# Time before character is teleported after using the skill.
+WeddingTeleportDuration = 60
+
+# Enable/Disable same sex marriages.
+WeddingAllowSameSex = False
+
+# Require players to wear formal wear to be married?
+WeddingFormalWear = True
+
+# Amount of Adena (%) a player must pay to the other to get divorced.
+WeddingDivorceCosts = 20

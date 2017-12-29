@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------------------
+# Town War Event
+# ---------------------------------------------------------------------------
+# Town ID that you can set as War Zone for the Event:
+# 
+# 1:  Dark Elf Village
+# 2:  Talking Island
+# 3:  Elven Village
+# 4:  Orc Village
+# 5:  Gludin Town
+# 6:  Dwarven Village
+# 7:  Town of Gludio
+# 8:  Town of Dion
+# 9:  Giran Town
+# 9:  Giran Harbour
+# 10: Oren Town
+# 11: Hunters Village
+# 12: Town of Aden
+# 13: Town of Goddard
+# 14: Town of Rune
+# 15: Heine
+# 16: Floran Village
+# 17: Town of Schuttgart
+# 20: Kamael Village
+# 
+# Default: 9 (Giran Town)
+TownWarTownId = 9
+TownWarTownName = Giran Town
+
+# Set all towns as War Zone (TownWarTownId won't be read) ?
+TownWarAllTowns = False
+
+# Enable or disable the Town War auto system?
+TownWarAutoEvent = False
+
+# Times Town War will occur (24h format).
+TownWarInterval = 9:00,15:00,21:00,3:00
+
+# Time before the event starts (in minutes).
+TownWarTimeBeforeStart = 60
+
+# Event running time (in minutes).
+TownWarRunningTime = 20
+
+# What's the reward for each kill?
+TownWarItemId = 57
+TownWarItemAmount = 5000
+
+# Give PvP/Pk points on Event kill?
+TownWarGivePvPAndPkPoints = False
+
+# Give Karma on Pk during the Town War Event?
+TownWarDisableKarma = False
+
+# Disable gatekeepers in the Town setted for the event?
+TownWarDisableGK = True
+
+# Should participants lose buffs on death?
+TownWarLoseBuffsOnDeath = False

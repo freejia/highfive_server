@@ -1,0 +1,64 @@
+# ---------------------------------------------------------------------------
+# MultiFunctionZone - custom addons for your server
+# ---------------------------------------------------------------------------
+#
+# DONT FORGET TO EDIT COORDINATES...X,Y,Z in data/zones/zone.xml
+#
+#
+# This option will turn on PvP flag to all people when entering to the zone
+EnablePvP = True
+
+# If set to false, zone will be no-restart zone
+NoRestartZone = False
+
+# If set to false, zone will be no-logout zone
+NoLogoutZone = False
+
+# If set to false, zone will be no-store zone
+NoStoreZone = False
+
+# Give noblesse after revive?
+ReviveNoblesse = False
+
+# Heal after revive?
+ReviveHeal = False
+
+# Delay, in seconds, to wait before revive
+# 0 to disable
+ReviveDelay = 10
+
+# Set the spawn points where players will be teleported on revive, if enabled
+# example:150111,144740,-12248;143665,144418,-12022;144443,147685,-12139
+SpawnLoc = 150111,144740,-12248;143665,144418,-12022;144443,147685,-12139
+
+# Random respawn radius
+RespawnRadius = 500
+
+# If set to true, players will take noblesse blessing when entering
+GiveNoblesse = True
+
+# Remove buffs when entering to the zone
+RemoveBuffs = False
+
+# Remove pets when entering to the zone
+RemovePets = False
+
+# Special rewards when hunting inside this zone
+# example: 57,100000;14720,1
+Rewards = 57,100000;14720,1
+
+# List of Items(id's) that won't be usable inside this area and also will be unequiped when entering
+# (armor, weapons, scrolls, potions, etc), example: 728,7575, 6383, 1538
+Items = 728,7575,6383,1538
+
+# List of Grades that won't be usable inside this area and also will be unequiped when entering
+# example: D,C,B,A,S,S80,S84
+Grades = C,B,A
+
+# Items with this enchant or more won't be usable inside this area and also will be unequiped when entering
+# 0 to disable
+Enchant = 0
+
+# Players with one of that classes won't be able to enter to the zone
+# example: 93,85,12
+Classes = 92

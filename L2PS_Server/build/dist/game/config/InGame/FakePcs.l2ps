@@ -1,0 +1,14 @@
+# ---------------------------------------------------------------------------
+# Fake PCs mods setting
+# ---------------------------------------------------------------------------
+#
+# Enable Mod?
+# Default: False
+EnableFakePcs = False
+
+
+# Tips
+# If you want to create any Fake Pc/Npc, you need to first 
+# create npc in npc or custom_npc and write ids to npc_ai_data or custom_npc_ai_data.
+# Remember new ID for your new npc and write in to the fake_pcs table.
+# In fake_pcs table you can edit your fake npc.

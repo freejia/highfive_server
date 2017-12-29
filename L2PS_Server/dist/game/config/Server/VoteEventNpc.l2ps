@@ -1,0 +1,30 @@
+# ------------------------ #
+# Vote reward for Hopzone and Topzone. # TESTED AND WORKING 16.6.2013 - no Error
+# ------------------------ #
+# Hopzone server url
+HopzoneUrl = http://l2.hopzone.net/lineage2/details/99999/My_Server
+# Topzone server url
+TopzoneUrl = http://l2topzone.com/lineage2/server-info/1111/My_Server.html
+
+# The characters will have a choice between 3 rewards.Set id for them
+VoteRewardId1 = 57
+VoteRewardId2 = 3470
+VoteRewardId3 = 4037
+
+# Set the amount of each reward.
+VoteRewardAmount1 = 5000
+VoteRewardAmount2 = 50
+VoteRewardAmount3 = 50
+
+# Set the seconds that the character has
+# until he votes in the site's banners
+# Default: 20 is optimal do not change higher
+SecondsToVote = 20
+
+# Amount of votes a character must collect
+# in order to get the 4th vote reward
+ExtraRewVoteAm = 20
+
+# Info of the extra reward item
+VoteRewardId4 = 4037
+VoteRewardAmount4 = 50

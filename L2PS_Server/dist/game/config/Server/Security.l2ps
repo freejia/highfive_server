@@ -1,0 +1,75 @@
+# ---------------------------------------------------------------------------
+# Secondary Auth Settings
+# ---------------------------------------------------------------------------
+# Enable Secondary Authentication on Character Select
+# Default: False
+SecondAuthEnabled = False
+
+# Max Attempts for Second Auth Password
+# Default: 5
+SecondAuthMaxAttempts = 5
+
+# Ban time if user reach SecondAuthMaxAttempts (in minutes)
+# Default: 480
+SecondAuthBanTime = 480
+
+# Password Recovery Link
+# Default: http://www.example.com/l2j/charPassRec.php
+SecondAuthRecoveryLink = http://www.example.com/l2j/charPassRec.php
+
+# ---------------------------------------------------------------------------
+# Server Security Settings
+# ---------------------------------------------------------------------------
+# Bypass exploit protection. To ENABLE protection set to True.
+# Default: True
+BypassValidation = True
+
+# Enforce gameguard for clients. Sends a gameguard query on character login.
+# Default: False
+GameGuardEnforce = False
+
+# Don't allow player to perform trade, talk with npc, or move until gameguard reply is received.
+# Default: False
+GameGuardProhibitAction = False
+
+#Logging settings. The following four settings, while enabled, will increase writing to your hard drive(s) considerably. Depending on the size of your server, the amount of players, and other factors, you may suffer a noticable performance hit.
+# Default: False
+LogChat = False
+
+# Default: False
+LogAutoAnnouncements = False
+
+# Default: False
+LogItems = False
+
+# Log only Adena and equippable items if LogItems is enabled
+LogItemsSmallLog = False
+
+# Default: False
+LogItemEnchants = False
+
+# Default: False
+LogSkillEnchants = False
+
+# Default: False
+GMAudit = False
+
+# Default: False
+LogGameDamage = False
+
+# If damage greater than threshold then log it
+# Default: 5000
+LogGameDamageThreshold = 5000
+
+# Check players for non-allowed skills
+# Default: False
+SkillCheckEnable = False
+
+# If true, remove invalid skills from player and database.
+# Report only, if false.
+# Default: False
+SkillCheckRemove = False
+
+# Check also GM characters (only if SkillCheckEnable = True)
+# Default: True
+SkillCheckGM = True

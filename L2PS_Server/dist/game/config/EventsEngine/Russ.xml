@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events.xsd">
+   <event id="11">
+      <property name="shortName" value="Russ" />
+      <property name="minLvl" value="1" />
+      <property name="maxLvl" value="85" />
+      <property name="eventName" value="Russian Roulette" />
+      <property name="matchTime" value="120" />
+      <property name="allowPotions" value="false" />
+      <property name="allowUseMagic" value="false" />
+      <property name="removeBuffs" value="false" />
+      <property name="minPlayers" value="2" />
+      <property name="russianNpcId" value="9108" />
+      <property name="numberOfRussians" value="6" />
+      <property name="roundTime" value="10" />
+      <color owner="All" r="255" g="255" b="255" />
+      <position owner="All" x="-54478" y="-69506" z="-3371" radius="100" />
+      <position owner="Russian" x="-54478" y="-69506" z="-3371" radius="0" />
+      <position owner="Russian" x="-54578" y="-69506" z="-3371" radius="0" />
+      <position owner="Russian" x="-54678" y="-69506" z="-3371" radius="0" />
+      <position owner="Russian" x="-54778" y="-69506" z="-3371" radius="0" />
+      <position owner="Russian" x="-54878" y="-69506" z="-3371" radius="0" />
+      <position owner="Russian" x="-54978" y="-69506" z="-3371" radius="0" />
+      <restriction type="item" ids="0" />
+      <restriction type="skill" ids="0" />
+      <reward owner="winner" list="57,1000;1,1" />
+      <reward owner="loser" list="57,10" />
+   </event>
+</events>

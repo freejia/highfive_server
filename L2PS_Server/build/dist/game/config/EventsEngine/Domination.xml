@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events.xsd">
+   <event id="2">
+      <property name="shortName" value="Dom" />
+      <property name="minLvl" value="1" />
+      <property name="maxLvl" value="85" />
+      <property name="eventName" value="Domination" />
+      <property name="matchTime" value="120" />
+      <property name="allowPotions" value="false" />
+      <property name="allowUseMagic" value="true" />
+      <property name="removeBuffs" value="true" />
+      <property name="minPlayers" value="2" />
+      <property name="zoneRadius" value="170" />
+      <property name="zoneNpcId" value="9103" />
+      <color owner="Blue" r="0" g="0" b="255" />
+      <color owner="Red" r="255" g="0" b="0" />
+      <position owner="Blue" x="-54486" y="-68844" z="-3419" radius="200" />
+      <position owner="Red" x="-54486" y="-70251" z="-3419" radius="200" />
+      <position owner="Zone" x="-54478" y="-69506" z="-3371" radius="0" />
+      <restriction type="item" ids="0" />
+      <restriction type="skill" ids="0" />
+      <reward owner="winner" list="57,1000;1,1" />
+      <reward owner="loser" list="57,10" />
+   </event>
+</events>

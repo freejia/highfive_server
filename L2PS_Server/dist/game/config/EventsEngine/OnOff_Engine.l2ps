@@ -1,0 +1,33 @@
+#---------------------------------------------------------------------------
+# Event Engine System
+#---------------------------------------------------------------------------
+# Default: False
+# Set to True if you want event engine.
+# NPC ID: 9999 - in custom NPC.sql
+EnableEventEngine = false
+
+# !!! TIP !!!
+# To disable each event open "config\EventsEngine\Settings.xml"
+#
+#	   <property name="eventEnabled_1" value="true" />
+#      <property name="eventEnabled_2" value="true" />
+#      <property name="eventEnabled_3" value="true" />
+#      <property name="eventEnabled_4" value="true" />
+#      <property name="eventEnabled_5" value="true" />
+#      <property name="eventEnabled_6" value="true" />
+#      <property name="eventEnabled_7" value="true" />
+#      <property name="eventEnabled_8" value="true" />
+#      <property name="eventEnabled_9" value="true" />
+#      <property name="eventEnabled_10" value="true" />
+#      <property name="eventEnabled_11" value="true" />
+#      <property name="eventEnabled_12" value="true" />
+#      <property name="eventEnabled_13" value="true" />
+#      <property name="eventEnabled_14" value="true" />
+#
+# Set to false.
+# 
+# Columb for name "......" is ID of event. Event id you can find in 
+# every event setting option. (Battlefield, Bomb ..etc) in "config\EventsEngine\"
+# Battle field event: 
+# <event id="14">
+# <property name="eventEnabled_14" value="true" /> = SET TO FALSE

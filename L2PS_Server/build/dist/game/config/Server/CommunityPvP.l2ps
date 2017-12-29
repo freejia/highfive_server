@@ -1,0 +1,81 @@
+# ----------------------------------------------
+# Community Board Class
+# ----------------------------------------------
+AllowCommunityClass = False
+AllowClassMastersCB = 0,1,2
+ClassMastersPriceCB = 300000,3000000,50000000
+ClassMastersPriceItemCB = 57
+
+# ----------------------------------------------
+# Community Board Buffer
+# ----------------------------------------------
+AllowCommunityBuff = False
+BuffCost = True
+
+# ----------------------------------------------
+# Community Board Teleport
+# ----------------------------------------------
+AllowCommunityTeleport = False
+
+# ----------------------------------------------
+# Community Board Gm Shop
+# ----------------------------------------------
+AllowCommunityMultisell = False
+
+# ----------------------------------------------
+# Community Board Statistics
+# ----------------------------------------------
+AllowCommunityStats = False
+
+# ----------------------------------------------
+# Community Board Enchant/Attribute
+# ----------------------------------------------
+AllowCommunityEnchant = False
+EnchantItem = 4037
+
+# ----------------------------------------------
+# Community Board Services
+# ----------------------------------------------
+AllowCommunityServices = False
+
+# ----------------------------------------------
+# Delevel
+# ----------------------------------------------
+DelevelItemId = 4037
+DelevelItemCount = 10
+
+# ----------------------------------------------
+# Add Nobles status
+# ----------------------------------------------
+NoblItemId = 4037
+NoblItemCount = 50
+
+# ----------------------------------------------
+# Add Hero status
+# ----------------------------------------------
+HeroItemId = 4037
+HeroItemCount = 100
+
+# ----------------------------------------------
+# Change Gender male/female
+# ----------------------------------------------
+GenderItemId = 4037
+GenderItemCount = 30
+
+# ----------------------------------------------
+# Recovery Pk Kills
+# ----------------------------------------------
+RecoveryPKItemId = 4037
+RecoveryPKItemCount = 10
+
+# ----------------------------------------------
+# Recovery Full Vitality
+# ----------------------------------------------
+RecoveryVitalityItemId = 4037
+RecoveryVitalityItemCount = 10
+
+# ----------------------------------------------
+# Add 10,000,000 SP
+# ----------------------------------------------
+SPItemId = 4037
+SPItemCount = 10

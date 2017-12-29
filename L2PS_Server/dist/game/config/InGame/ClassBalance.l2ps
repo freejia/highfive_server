@@ -1,0 +1,185 @@
+#---------------------------------------------------------
+# ClassBalance
+#---------------------------------------------------------
+# If value is less than 1 is more damage.
+# For example "DaggerVsHeavy = 0.50" = With dagger weapon
+# 2x normal damage to Heavy armor.
+#---------------------------------------------------------
+
+ClassBalance = False
+
+#---------------------------------------------
+# Dagger Classes
+#---------------------------------------------
+# Power of Skills
+DaggerVsHeavy = 1.00
+DaggerVsLight = 1.00
+DaggerVsRobe = 1.00
+# Power of Auto attack
+DaggerVsHeavyAutoattack = 1.00
+DaggerVsLightAutoattack = 1.00
+DaggerVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Archer Classes
+#---------------------------------------------
+# Power of Skills
+ArcherVsHeavy = 1.00
+ArcherVsLight = 1.00
+ArcherVsRobe = 1.00
+# Power of Auto attack
+ArcherVsHeavyAutoattack = 1.00
+ArcherVsLightAutoattack = 1.00
+ArcherVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# One-Handed Blunt Classes
+#---------------------------------------------
+# Power of Skills
+BluntVsHeavy = 1.00
+BluntVsLight = 1.00
+BluntVsRobe = 1.00
+# Power of Auto attack
+BluntVsHeavyAutoattack = 1.00
+BluntVsLightAutoattack = 1.00
+BluntVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Dual-Weapon Classes
+#---------------------------------------------
+# Power of Skills
+DualVsHeavy = 1.00
+DualVsLight = 1.00
+DualVsRobe = 1.00
+# Power of Auto attack
+DualVsHeavyAutoattack = 1.00
+DualVsLightAutoattack = 1.00
+DualVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Fist Classes
+#---------------------------------------------
+# Power of Skills
+FistVsHeavy = 1.00
+FistVsLight = 1.00
+FistVsRobe = 1.00
+# Power of Auto attack
+FistVsHeavyAutoattack = 1.00
+FistVsLightAutoattack = 1.00
+FistVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Sword Classes
+#---------------------------------------------
+# Power of Skills
+SwordVsHeavy = 1.00
+SwordVsLight = 1.00
+SwordVsRobe = 1.00
+# Power of Auto attack
+SwordVsHeavyAutoattack = 1.00
+SwordVsLightAutoattack = 1.00
+SwordVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Pole Classes
+#---------------------------------------------
+# Power of Skills
+PoleVsHeavy = 1.00
+PoleVsLight = 1.00
+PoleVsRobe = 1.00
+# Power of Auto attack
+PoleVsHeavyAutoattack = 1.00
+PoleVsLightAutoattack = 1.00
+PoleVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Big-Blunt Classes
+#---------------------------------------------
+# Power of Skills
+BigBluntVsHeavy = 1.00
+BigBluntVsLight = 1.00
+BigBluntVsRobe = 1.00
+# Power of Auto attack
+BigBluntVsHeavyAutoattack = 1.00
+BigBluntVsLightAutoattack = 1.00
+BigBluntVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Big-Sword Classes
+#---------------------------------------------
+# Power of Skills
+BigSwordVsHeavy = 1.00
+BigSwordVsLight = 1.00
+BigSwordVsRobe = 1.00
+# Power of Auto attack
+BigSwordVsHeavyAutoattack = 1.00
+BigSwordVsLightAutoattack = 1.00
+BigSwordVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Big-Sword Classes
+#---------------------------------------------
+# Power of Skills
+BigSwordVsHeavy = 1.00
+BigSwordVsLight = 1.00
+BigSwordVsRobe = 1.00
+# Power of Auto attack
+BigSwordVsHeavyAutoattack = 1.00
+BigSwordVsLightAutoattack = 1.00
+BigSwordVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Rapier Classes
+#---------------------------------------------
+# Power of Skills
+RapierVsHeavy = 1.00
+RapierVsLight = 1.00
+RapierVsRobe = 1.00
+# Power of Auto attack
+RapierVsHeavyAutoattack = 1.00
+RapierVsLightAutoattack = 1.00
+RapierVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Ancient Sword Classes
+#---------------------------------------------
+# Power of Skills
+AncientSwordVsHeavy = 1.00
+AncientSwordVsLight = 1.00
+AncientSwordVsRobe = 1.00
+# Power of Auto attack
+AncientSwordVsHeavyAutoattack = 1.00
+AncientSwordVsLightAutoattack = 1.00
+AncientSwordVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Crossbow Classes
+#---------------------------------------------
+# Power of Skills
+CrossbowVsHeavy = 1.00
+CrossbowVsLight = 1.00
+CrossbowVsRobe = 1.00
+# Power of Auto attack
+CrossbowVsHeavyAutoattack = 1.00
+CrossbowVsLightAutoattack = 1.00
+CrossbowVsRobeAutoattack = 1.00
+
+#---------------------------------------------
+# Dual-Dagger Classes
+#---------------------------------------------
+# Power of Skills
+DualDaggerVsHeavy = 1.00
+DualDaggerVsLight = 1.00
+DualDaggerVsRobe = 1.00
+# Power of Auto attack
+DualDaggerVsHeavyAutoattack = 1.00
+DualDaggerVsLightAutoattack = 1.00
+DualDaggerVsRobeAutoattack = 1.00
+
+#------------------------------------------------------
+# Mage Classes - Soultaker, Storm Screemer, Mystic Muse
+#------------------------------------------------------
+# Power of Skills
+MageVsHeavy = 1.00
+MageVsLight = 1.00
+MageVsRobe = 1.00

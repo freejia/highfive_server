@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java" />
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="lib" path="dist/libs/c3p0-0.9.2.jar" />
+	<classpathentry kind="lib" path="dist/libs/javolution-5.5.1.jar" sourcepath="dist/libs/javolution-5.5.1-src.zip" />
+	<classpathentry kind="lib" path="dist/libs/jna-3.5.1.jar" />
+	<classpathentry kind="lib" path="dist/libs/jython.jar" />
+	<classpathentry kind="lib" path="dist/libs/jython-engine-2.2.1.jar" />
+	<classpathentry kind="lib" path="dist/libs/mmocore.jar" />
+	<classpathentry kind="lib" path="dist/libs/mail-1.4.6.jar" />
+	<classpathentry kind="lib" path="dist/libs/mailapi-1.4.6.jar" />
+	<classpathentry kind="lib" path="dist/libs/netcon-1.7.jar" />
+	<classpathentry kind="lib" path="dist/libs/trove-3.0.3.jar" />
+	<classpathentry kind="lib" path="dist/libs/smtp-1.4.6.jar" />
+	<classpathentry kind="lib" path="dist/libs/Subnet-1.0.jar" />
+	<classpathentry kind="lib" path="dist/libs/worldwind.jar" />
+	<classpathentry kind="lib" path="dist/l2f_lips/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/commons-math-2.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/dom4j-2.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/ecj-3.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/ehcache-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/jacksum-1.7.0.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/javolution.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/jce.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/l2f-commons.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/lameguard-1.9.5.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/mesp-1.02.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/netty-3.6.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/org.napile.primitive.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/slf4j-log4j12-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/tools.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/trove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="dist/l2f_lips/worldwind.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin" />
+</classpath>

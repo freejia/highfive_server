@@ -1,0 +1,18 @@
+# ---------------------------------------------------------------------------
+# Seed of Destruction Settings
+# ---------------------------------------------------------------------------
+# Count of Kills which needed for Stage 2
+# Default: 10
+TiatKillCountForNextState = 10
+
+# Length of Stage 2 before the Defense state starts (in minutes).
+# Default: 720min (12h)
+Stage2Length = 720
+
+# Minimum players necessary for kill Tiat.
+# Default: 36
+MinTiatPlayers = 36
+
+# Maximum players necessary for kill Tiat.
+# Default: 45
+MaxTiatPlayers = 45

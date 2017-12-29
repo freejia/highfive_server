@@ -1,0 +1,13 @@
+# ------------------------ #
+# Anti Botting
+# ------------------------ #
+# Set 1 if you want anti bot will working
+# Default: 0 (disabled), 1 (enabled)
+StartAntibot = 0
+
+# Next antibot check on monster kills
+NextCheckOn = 50
+
+# Set time to fill code
+# Default: 60000 (60sec)
+TimeToFill = 60000

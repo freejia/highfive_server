@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Easy Champion mobs - Turn random mobs into Easy Champions
+# ---------------------------------------------------------------------------
+# Enable/Disable Easy Champion Mob System.
+EasyChampionEnable = False
+
+# Force Easy Champion mobs to be passive?
+# To leave Easy champion mobs to default/Aggressive, set to False.
+# To set all Easy champion mobs to Passive, set True.
+EasyChampionPassive = False
+
+# % chance for a mob to became Easy champion (0 to disable).
+EasyChampionFrequency = 5
+
+# Title of all Easy Champion Mobs.
+EasyChampionTitle = EasyChampion
+
+# Min and max levels allowed for a mob to be a Easy Champion mob.
+EasyChampionMinLevel = 20
+EasyChampionMaxLevel = 70
+
+# Hp multiplier for Easy Champion mobs.
+EasyChampionHp = 8
+
+# Hp Regen Multiplier for Easy Champion mobs.
+EasyChampionHpRegen = 1.0
+
+# Standard rewards multiplier for Easy Champion mobs.
+EasyChampionRewards = 8
+
+# Adena & Seal Stone rewards multiplier for Easy Champion mobs.
+EasyChampionAdenasRewards = 1.0
+
+# P. Attack and M. Attack bonus for Easy Champion mobs.
+EasyChampionAtk = 1.0
+
+# Physical/Magical Attack Speed bonus for Easy Champion mobs.
+EasyChampionSpdAtk = 1.0
+
+# Specified reward item ID
+EasyChampionRewardItemID = 6393
+
+# The amount of the specified reward a player will receive if they are awarded the item.
+EasyChampionRewardItemQty = 1
+
+# % Chance to obtain a specified reward item from a LOWER lvl Easy Champion mob.
+EasyChampionRewardLowerLvlItemChance = 0
+
+# % Chance to obtain a specified reward item from a HIGHER lvl Easy Champion mob.
+EasyChampionRewardHigherLvlItemChance = 0
+
+# Do you want to enable the vitality calculation when killing Easy champion mobs?
+# Be aware that it can lead to huge unbalance on your server, your rate for that mob would
+# then be "mobXP x serverRate x vitalityRate x championXpRate
+# Notes:
+#	Works only if EnableVitality = True
+# Default: False
+EasyChampionEnableVitality = False
+
+# Enable spawning of the Easy champions in instances
+# Default = False
+EasyChampionEnableInInstances = False
